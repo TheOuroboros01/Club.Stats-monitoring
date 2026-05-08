@@ -1,4 +1,4 @@
-// stats.js
+// stats.js - alt account = shenhe
 
 function parseNumber(text) {
   text = text.trim().toLowerCase();
